@@ -1,6 +1,7 @@
 NEW WP Project Bash Script
 ==========================
 This bash script downloads the latest WordPress to your local dev server and setup both WordPress and your database on your local enviroment.
+Remember to change the script to fit your needs
 
 Arguments
 ---------
